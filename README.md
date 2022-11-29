@@ -4,7 +4,9 @@
 [![Lattes](https://badgen.net/badge/icon/Lattes?icon=lattes&label)](http://lattes.cnpq.br/5756828373687522)
 
 
-![João Nogueira GitHub stats](https://github-readme-stats.vercel.app/api?username=joaornj&show_icons=true&theme=radical)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaornj)](https://github.com/joaornj/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/joaornj">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaornj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaornj&layout=compact&langs_count=7&theme=dark"/>
+</div>  
+  
